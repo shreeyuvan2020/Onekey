@@ -14,19 +14,19 @@ These schematics are very concise, it's just a MCU, whatever input device, and m
 ## PCB
  I designed the encoder PCB especially with a lot of care because the pcb had to stick out enough to reach into the case of the main onekey. The pcb with the key also took some time because at first I decided hotswap, but then changed to normal switches. I then made these basically centered. Also I had to work a bit on routing for the neopixel
   ### Keyswitch PCB
-  ![Left](assets/Screenshot 2026-06-25 at 6.09.13 PM.png)
+  ![Left](<assets/Screenshot 2026-06-25 at 6.09.13 PM.png>)
   ### Encoder PCB
-  ![Full](assets/Screenshot 2026-06-25 at 6.14.12 PM.png)
+  ![Full](<assets/Screenshot 2026-06-25 at 6.14.12 PM.png>)
 ## CAD
  I designed the CAD with portability, usability, and elegance in mind. I also had to design it with both a cutout for the USB and pogo pin connector. 
  ### Bottom Case of Encoder
- ![Bottom](assets/Screenshot 2026-06-25 at 6.12.07 PM.png)
+ ![Bottom](<assets/Screenshot 2026-06-25 at 6.12.07 PM.png>)
  ### Top Plate of Encoder
- ![Plate](assets/Screenshot 2026-06-25 at 6.12.24 PM.png)
+ ![Plate](<assets/Screenshot 2026-06-25 at 6.12.24 PM.png>)
  ### Bottom Case of Keyswitch
- ![Bottom](assets/Screenshot 2026-06-25 at 6.11.59 PM.png)
+ ![Bottom](<assets/Screenshot 2026-06-25 at 6.11.59 PM.png>)
  ### Top Plate of Keyswitch
- ![Plate](assets/Screenshot 2026-06-25 at 6.12.54 PM.png)
+ ![Plate](<assets/Screenshot 2026-06-25 at 6.12.54 PM.png>)
  ### Encoder Assembly
  ![EncoderAssembly](assets/8dfb5017-fdaa-4beb-a9fc-a19013720f98.PNG)
  ### Keyswitch Assembly
