@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# KiCad lock files and user-local state
+~*.lck
+*.kicad_prl
+fp-info-cache
+
+# KiCad auto-backups
+**/*-backups/
+
+# Editor history
+**/.history/
+
+# KiCad footprint libraries
+**/*.pretty/
