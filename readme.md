@@ -1,5 +1,5 @@
- # The Chillboard
- ## The perfect ergonomic keyboard for chilling
+ # The Onekey
+ ## The one key and knob macropad(available at onekey.hackclub.com)
  ## Features
  - Sandwhich mount for constistency of feel
  - Magnetic Pogo Pin connectors for easily bonding the two sides of the macropad. 
@@ -9,8 +9,8 @@
  - @maxstellar on slack asked me to help with his internship project, so I did!
 ## Schematic
 These schematics are very concise, it's just a MCU, whatever input device, and magnetic pogo pin connectors(generic symbol). Plus neopixel for key. First one is encoder, second is keyswitch
- - ![Encodersch](assets/Screenshot 2026-06-25 at 6.14.21 PM.png)
- - ![Switchsch](assets/Screenshot 2026-06-25 at 6.14.46 PM.png)
+ - ![Encodersch](<assets/Screenshot 2026-06-25 at 6.14.21 PM.png>)
+ - ![Switchsch](<assets/Screenshot 2026-06-25 at 6.14.46 PM.png>)
 ## PCB
  I designed the encoder PCB especially with a lot of care because the pcb had to stick out enough to reach into the case of the main onekey. The pcb with the key also took some time because at first I decided hotswap, but then changed to normal switches. I then made these basically centered. Also I had to work a bit on routing for the neopixel
   ### Keyswitch PCB
