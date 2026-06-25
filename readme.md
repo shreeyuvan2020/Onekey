@@ -33,6 +33,8 @@ These schematics are very concise, it's just a MCU, whatever input device, and m
  ![KeyAssembly](assets/onekeyassemble_2026-Jun-25_10-17-34AM-000_CustomizedView7173037740.png)
  ### Full Assembly
  ![Assembly](assets/48f44c55-8ea5-4062-9919-0f438c232144.PNG)
+## Firmware
+### The whole point of this YSWS is for people to create their own firmware for a one key macropad, so I don't have firmware here. 
 ## My Zine
 ![zine](assets/zine.png)
 Zine is at zine.pdf too
