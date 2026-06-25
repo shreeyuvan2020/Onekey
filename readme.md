@@ -37,7 +37,7 @@ These schematics are very concise, it's just a MCU, whatever input device, and m
 ### The whole point of this YSWS is for people to create their own firmware for a one key macropad, so I don't have firmware here. 
 ## My Zine
 ![zine](assets/zine.png)
-Zine is at zine.pdf too
+Zine is at zine.pdf too, that might not load properly, try using chrome. Or download it and open. It's a known github issue.
 ## Assembly Instructions
  - First, obviously fabricate the PCB and solder everything.
  - Next is printing the plates and cases.
